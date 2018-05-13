@@ -1,0 +1,45 @@
+@import url(http://fonts.googleapis.com/css?family=Vibur);
+* {
+  box-sizing: border-box;
+  font-family: arial;
+}
+
+body {
+  background: #797675;
+}
+
+h1 {
+  color: #141414;
+  text-align: Left;
+  font-family: 'Tahoma',cursive;
+  font-size: 70px;
+}
+
+.form {
+  width: 60%;
+  padding: 40px 30px;
+  background: #eee;
+  border-radius: 4px;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.btn-primary {
+   background:  #696969;
+  dispaly: inline-block;
+  width: 32%;
+  font-size: 30px;
+  height: 100px;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+}
+
+
+
